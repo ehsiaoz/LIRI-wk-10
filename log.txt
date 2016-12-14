@@ -1,2 +1,49 @@
 ﻿LIRI Log:
 =========
+spotify-this-song,"yesterday"
+---------------------------------------------
+0: Yesterday - Remastered (63)
+
+1: Just One Yesterday (60)
+
+2: Yesterday (57)
+
+3: Red Gold Yesterday (64)
+
+4: Danger Zone (65)
+
+5: Yesterday (54)
+
+6: Yesterday's Song (68)
+
+7: Yesterday - Remastered 2015 (56)
+
+8: Only Yesterday (48)
+
+9: From Yesterday (58)
+
+10: Footloose (57)
+
+11: So Yesterday (49)
+
+12: Ex's and Oh's (52)
+
+13: Yesterday (47)
+
+14: The Kids From Yesterday (50)
+
+15: Into Yesterday (47)
+
+16: Yesterday (feat.Bebe Rexha) (44)
+
+17: I'm Alright - Theme from "Caddyshack" (49)
+
+18: Isadora (48)
+
+19: Yesterday (37)
+
+spotify-this-song,"undefined"
+---------------------------------------------
+0: The Sign - Karaoke Version In the Style of Ace Of Base (0)
+
+1: Sign - Karaoke Version In the Style of Ace Of Base (0)

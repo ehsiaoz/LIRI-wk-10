@@ -100,8 +100,9 @@ function spotify(item) {
 	});
 	//================================================
 
-	spotifyApi.searchTracks(item || "The Sign").then(function(data) {
+	spotifyApi.searchTracks('track:The Sign artist: Ace of Base').then(function(data) {
     
+    	// console.log(data.body.tracks.items[0]);
     	// Print some information about the results
 	    console.log('I got ' + data.body.tracks.total + ' results!');
 	    appendCommand();
@@ -118,7 +119,7 @@ function spotify(item) {
 			console.log(log);
 			appendResults(log);
 		});
-	  	//call append method to write to random.txt
+	  	
 
 		
 	 
