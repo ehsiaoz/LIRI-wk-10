@@ -89,7 +89,7 @@ function mytweets(handle) {
 // //Artist(s), The song's name, Preview link of song from spotify, album song is from
 // //if no song provided default to "the sign" by Ace of Base
 
-function spotify(item) {
+function spotify(song="The Sign") {
 
 	//Spotify API Credentials=====================
 	var spotifyKeys = keys.spotifyKeys;
@@ -100,7 +100,9 @@ function spotify(item) {
 	});
 	//================================================
 
-	spotifyApi.searchTracks('track:The Sign artist: Ace of Base').then(function(data) {
+	var artist = process.argv[4] ? process.argv[4] : "Ace of Base";
+
+	spotifyApi.searchTracks('track:' + song + ' artist: ' + artist).then(function(data) {
     
     	// console.log(data.body.tracks.items[0]);
     	// Print some information about the results

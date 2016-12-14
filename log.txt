@@ -1,46 +1,114 @@
 ﻿LIRI Log:
 =========
-spotify-this-song,"yesterday"
+spotify-this-song,"'the"
 ---------------------------------------------
-0: Yesterday - Remastered (63)
+0: Dance the Stars (feat. Magical Future Artist) (0)
 
-1: Just One Yesterday (60)
+1: The Spiral Dance (0)
 
-2: Yesterday (57)
+2: Dance the Funk (0)
 
-3: Red Gold Yesterday (64)
+3: The Skeleton Dance (0)
 
-4: Danger Zone (65)
+4: The Spiral Dance (0)
 
-5: Yesterday (54)
+5: Dance By the Light (0)
 
-6: Yesterday's Song (68)
+6: Fairytale - The Last Dance (0)
 
-7: Yesterday - Remastered 2015 (56)
+7: Dance To The Rhythm (0)
 
-8: Only Yesterday (48)
+8: For the Young Artist, Volume 1: Greek Dance (0)
 
-9: From Yesterday (58)
+9: Spirit of the Dance (2)
 
-10: Footloose (57)
+10: Dance to the Rhythm (0)
 
-11: So Yesterday (49)
+11: The Old Dance: III. Sarabande (0)
 
-12: Ex's and Oh's (52)
+12: The Old Dance: II. Gigue (0)
 
-13: Yesterday (47)
+13: The Old Dance: I. Badinerie (0)
 
-14: The Kids From Yesterday (50)
+14: The Old Dance: III. Sarabande (0)
 
-15: Into Yesterday (47)
+15: The Old Dance: III. Sarabande (0)
 
-16: Yesterday (feat.Bebe Rexha) (44)
+16: The Old Dance: II. Gigue (0)
 
-17: I'm Alright - Theme from "Caddyshack" (49)
+17: The Old Dance: III. Sarabande (0)
 
-18: Isadora (48)
+18: The Old Dance: I. Badinerie (0)
 
-19: Yesterday (37)
+19: The Old Dance: III. Sarabande (0)
+
+movie-this,"undefined"
+---------------------------------------------
+Title: Mr. Nobody
+Year: 2009
+imdb Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Tomatoes Rating: 6.6
+Rating URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+movie-this,"gladiator"
+---------------------------------------------
+Title: Gladiator
+Year: 2000
+imdb Rating: 8.5
+Country: USA, UK
+Plot: When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+Tomatoes Rating: 7.2
+Rating URL: http://www.rottentomatoes.com/m/gladiator/
+
+spotify-this-song,"'the"
+---------------------------------------------
+2: Dance the Funk (0)
+
+4: The Spiral Dance (0)
+
+0: Dance the Stars (feat. Magical Future Artist) (0)
+
+1: The Spiral Dance (0)
+
+5: Dance By the Light (0)
+
+6: Fairytale - The Last Dance (0)
+
+7: Dance To The Rhythm (0)
+
+8: For the Young Artist, Volume 1: Greek Dance (0)
+
+9: Spirit of the Dance (2)
+
+3: The Skeleton Dance (0)
+
+10: Dance to the Rhythm (0)
+
+11: The Old Dance: III. Sarabande (0)
+
+12: The Old Dance: II. Gigue (0)
+
+13: The Old Dance: I. Badinerie (0)
+
+14: The Old Dance: III. Sarabande (0)
+
+15: The Old Dance: III. Sarabande (0)
+
+16: The Old Dance: II. Gigue (0)
+
+17: The Old Dance: III. Sarabande (0)
+
+18: The Old Dance: I. Badinerie (0)
+
+19: The Old Dance: III. Sarabande (0)
+
+spotify-this-song,"the dance"
+---------------------------------------------
+0: The Dance - Composed Or Made Famous By Garth Brooks (0)
 
 spotify-this-song,"undefined"
 ---------------------------------------------
