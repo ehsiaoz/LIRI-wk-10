@@ -11,6 +11,7 @@ var SpotifyWebApi = require("spotify-web-api-node");
 
 var command = process.argv[2];
 var lookup = process.argv[3];
+var artist = "";
 
 
 switch (command) {
@@ -76,6 +77,7 @@ function mytweets(handle) {
     			var record = "(" + tweet.created_at +"): " + tweet.text
     			//append each tweet to log.txt file
 				appendResults(record);
+				console.log(record);
     		});
 		 }
 
@@ -100,27 +102,43 @@ function spotify(song="The Sign") {
 	});
 	//================================================
 
-	var artist = process.argv[4] ? process.argv[4] : "Ace of Base";
+	artist = process.argv[4] ? process.argv[4] : "Ace of Base";
 
+	appendCommand();
 	spotifyApi.searchTracks('track:' + song + ' artist: ' + artist).then(function(data) {
-    
+    	
+    	
+    	// console.log("data.body.tracks: ", data.body.tracks);
     	// console.log(data.body.tracks.items[0]);
     	// Print some information about the results
-	    console.log('I got ' + data.body.tracks.total + ' results!');
-	    appendCommand();
+	    //console.log('I got ' + data.body.tracks.total + ' results!');
+	  
 	  	
 	    // Go through the first page of results
 	 	var firstPage = data.body.tracks.items;
-	  	console.log('The tracks in the first page are.. (popularity in parentheses)');
+	 	var artist = firstPage[0].artists[0].name;
+	 	var song = firstPage[0].name;
+	 	var album = firstPage[0].album.name;
+	 	var trackNumber = firstPage[0].track_number;
+	 	var spotifyURL = firstPage[0].external_urls.spotify
+
+
+	 	console.log("Artist: ", artist)
+	 	console.log("Song Name: ", song);
+	 	console.log("Album: ", album);
+	 	console.log("Track Number: ", trackNumber);
+	 	console.log("Spotify URL: ", spotifyURL);
 	  	
-	  	// console.log('First page tracks item 0: ', firstPage[0]);
-	  	// console.log('First page tracks item 1: ', firstPage[1]);
-	  	
-	  	firstPage.forEach(function(track, index) {
-			var log = index + ': ' + track.name + ' (' + track.popularity + ')'
-			console.log(log);
-			appendResults(log);
-		});
+	  	var log = "Artist: " + artist + '\r\n' +  "Song Name: " + song + '\r\n' + "Album: " + album + '\r\n' +
+					"Track Number: " + trackNumber + '\r\n' + "Spotify URL: " + spotifyURL
+	  
+	  	appendResults(log);
+	  	//Code below is if you want multiple results and display multiple results
+	 //  	firstPage.forEach(function(track, index) {
+		// 	var log = index + ': ' + track.name + ' (' + track.popularity + ')'
+		// 	// console.log(log);
+		// 	appendResults(log);
+		// });
 	  	
 
 		
@@ -237,32 +255,64 @@ function callLIRI() {
 //Intead of logging out to console. output data to a .txt file called log.txt
 function appendCommand() {
 
-	var entry = command + ",\"" + lookup + "\""
-	fs.appendFile("log.txt", "\r\n" + entry + "\r\n" + "---------------------------------------------", function(err) {
-		console.log(entry);
+	if (command === "spotify-this-song") {
+		var entry = "Command: " + command + " " + " Song: " + lookup + ", Artist: " + artist
+		fs.appendFile("log.txt", "\r\n" + entry + "\r\n" + "---------------------------------------------", function(err) {
+			console.log(entry);
 
-		if (err) {
-			console.log(err);
-			return
-		}
+			if (err) {
+				console.log(err);
+				return
+			}
 
-		console.log("Command Entry Added!")
+			console.log("Command Entry Added!")
 
-	});
+		});	
+	}
+	else if (command === "my-tweets") {
+
+		var entry = "Command: " + command + " Twitter Handle: " + lookup
+		fs.appendFile("log.txt", "\r\n" + entry + "\r\n" + "---------------------------------------------", function(err) {
+			console.log(entry);
+
+			if (err) {
+				console.log(err);
+				return
+			}
+
+			console.log("Command Entry Added!")
+
+		});
+
+	}
+	else if (command === "movie-this") {
+
+		var entry = "Command: " + command + " Movie: " + lookup
+		fs.appendFile("log.txt", "\r\n" + entry + "\r\n" + "---------------------------------------------", function(err) {
+			console.log(entry);
+
+			if (err) {
+				console.log(err);
+				return
+			}
+
+			console.log("Command Entry Added!")
+
+		});
+			
+	}
 
 }
 
 function appendResults(log) {
 
 	fs.appendFile("log.txt", "\r\n" + log + "\r\n", function(err) {
-		console.log(log);
+		// console.log(log);
 
 		if (err) {
 			console.log(err);
 			return
 		}
-
-		console.log("Result Entry Added!")
 
 	});
 

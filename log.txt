@@ -1,117 +1,128 @@
 ﻿LIRI Log:
 =========
-spotify-this-song,"'the"
+
+Command: my-tweets Twitter Handle: @ElizabethBanks
 ---------------------------------------------
-0: Dance the Stars (feat. Magical Future Artist) (0)
+Last 20 Tweets for: @ElizabethBanks
 
-1: The Spiral Dance (0)
+(Wed Dec 14 22:10:09 +0000 2016): If you asked whether I loved me some @kerrywashington, the answer is always, "I do." #wcw @whohahadotcom https://t.co/q8P9iKfL1h
 
-2: Dance the Funk (0)
+(Mon Dec 12 15:47:54 +0000 2016): RT @michaelianblack: We have been instructed to disbelieve the news, the gov't, the scientists, and the academics. But we're supposed to be…
 
-3: The Skeleton Dance (0)
+(Thu Dec 08 07:58:42 +0000 2016): Vasectomy = prevents abortions, 1-day ordeal, covered by most insurance policies, reversible. Requires men take res… https://t.co/tupkaDkQQF
 
-4: The Spiral Dance (0)
+(Thu Dec 08 07:48:33 +0000 2016): If you want to prevent abortion without punishing women and mothers - try mandating reversible vasectomies for all… https://t.co/ctI5mV2AYS
 
-5: Dance By the Light (0)
+(Thu Dec 08 06:28:07 +0000 2016): Agree. Reducing abortion (vs. controlling women) involves contraception $/access, sex ed, and ACTUAL SUPPORT of/for… https://t.co/gvIyperkdw
 
-6: Fairytale - The Last Dance (0)
+(Wed Dec 07 00:10:19 +0000 2016): Witnessed incredible human's bring some gold home. #Olympics2016 #ThisHappened https://t.co/oYB0wy5AuO
 
-7: Dance To The Rhythm (0)
+(Wed Dec 14 18:19:55 +0000 2016): That's what I'm talking about! #RyanMurphy’s Push to Hire More Female Directors is a Huge Success @thr https://t.co/rdKKB6yg4D
 
-8: For the Young Artist, Volume 1: Greek Dance (0)
+(Tue Dec 06 21:11:33 +0000 2016): Lately, every time I tweet about something frivolous, I feel smaller as a person, American, mother, citizen.
 
-9: Spirit of the Dance (2)
+(Tue Dec 06 19:01:27 +0000 2016): I always thought @Stranger_Things would work great with the holidays. https://t.co/pZSiE4cEwF
 
-10: Dance to the Rhythm (0)
+(Tue Dec 06 15:27:46 +0000 2016): RT @MomsDemand: The Ohio Moms pouring into the statehouse this morning to oppose #HB48 are our #TuesdayMotivation. Go Moms! #OHleg #GunSens…
 
-11: The Old Dance: III. Sarabande (0)
+(Thu Dec 08 06:22:49 +0000 2016): If you care about reducing abortion (not just controlling women) lots of options- for starters: more contraception… https://t.co/KCSv3piknV
 
-12: The Old Dance: II. Gigue (0)
+(Tue Dec 06 08:48:23 +0000 2016): RT @ryanstruyk: New popular vote numbers from @AP:
 
-13: The Old Dance: I. Badinerie (0)
+Clinton 65,383,628 (48.2%)
+Trump 62,759,366 (46.3%)
+Johnson 4,470,971 (3.3%)
+Stein 1,43…
 
-14: The Old Dance: III. Sarabande (0)
+(Tue Dec 06 08:40:24 +0000 2016): Never saw this growing up in MA. #tistheseason https://t.co/c4lpxVitGf
 
-15: The Old Dance: III. Sarabande (0)
+(Mon Dec 05 22:02:09 +0000 2016): It's @madonna. C'mon. Thank you @billboard for making our interview happen! Take a look: https://t.co/5q2wtQoPEV… https://t.co/TjpJa9uY8H
 
-16: The Old Dance: II. Gigue (0)
+(Tue Dec 13 18:30:14 +0000 2016): On the J.O.B. Not a bad backdrop. Save Planned Parenthood. (I feel the need to write or say this… https://t.co/PciLj1TDml
 
-17: The Old Dance: III. Sarabande (0)
+(Mon Dec 05 08:03:53 +0000 2016): RT @maxhandelman: My 5-year old upon hearing Cyndi Lauper's "True Colors": 
 
-18: The Old Dance: I. Badinerie (0)
+Oh, Dad, this is a remix of that song from @Trolls. 
 
-19: The Old Dance: III. Sarabande (0)
+Me: *sma…
 
-movie-this,"undefined"
+(Sun Dec 04 06:40:37 +0000 2016): RT @OmarjSakr: Women in Middle East attacked for not wearing hijab
+Women in the West attacked for wearing hijab
+It's almost like women aren…
+
+(Tue Dec 06 21:02:58 +0000 2016): Got to be a part of herstory this year. I'd do it all again. #FightSong #ThisHappened https://t.co/PVDHGyqpQG
+
+(Tue Dec 06 21:29:05 +0000 2016): This is everyone's dream. https://t.co/sezgyw2CD4
+
+(Sun Dec 04 17:04:54 +0000 2016): Yoda + seagulls = @badlipreading! #starwars https://t.co/3nZveDKgsV
+
+Command: my-tweets Twitter Handle: @ElizabethBanks
 ---------------------------------------------
-Title: Mr. Nobody
-Year: 2009
-imdb Rating: 7.9
-Country: Belgium, Germany, Canada, France
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-Tomatoes Rating: 6.6
-Rating URL: http://www.rottentomatoes.com/m/mr-nobody/
+Last 20 Tweets for: @ElizabethBanks
 
-movie-this,"gladiator"
+(Thu Dec 08 07:58:42 +0000 2016): Vasectomy = prevents abortions, 1-day ordeal, covered by most insurance policies, reversible. Requires men take res… https://t.co/tupkaDkQQF
+
+(Thu Dec 08 06:28:07 +0000 2016): Agree. Reducing abortion (vs. controlling women) involves contraception $/access, sex ed, and ACTUAL SUPPORT of/for… https://t.co/gvIyperkdw
+
+(Thu Dec 08 06:22:49 +0000 2016): If you care about reducing abortion (not just controlling women) lots of options- for starters: more contraception… https://t.co/KCSv3piknV
+
+(Tue Dec 06 21:29:05 +0000 2016): This is everyone's dream. https://t.co/sezgyw2CD4
+
+(Wed Dec 14 18:19:55 +0000 2016): That's what I'm talking about! #RyanMurphy’s Push to Hire More Female Directors is a Huge Success @thr https://t.co/rdKKB6yg4D
+
+(Wed Dec 07 00:10:19 +0000 2016): Witnessed incredible human's bring some gold home. #Olympics2016 #ThisHappened https://t.co/oYB0wy5AuO
+
+(Thu Dec 08 07:48:33 +0000 2016): If you want to prevent abortion without punishing women and mothers - try mandating reversible vasectomies for all… https://t.co/ctI5mV2AYS
+
+(Tue Dec 06 19:01:27 +0000 2016): I always thought @Stranger_Things would work great with the holidays. https://t.co/pZSiE4cEwF
+
+(Wed Dec 14 22:10:09 +0000 2016): If you asked whether I loved me some @kerrywashington, the answer is always, "I do." #wcw @whohahadotcom https://t.co/q8P9iKfL1h
+
+(Tue Dec 06 08:48:23 +0000 2016): RT @ryanstruyk: New popular vote numbers from @AP:
+
+Clinton 65,383,628 (48.2%)
+Trump 62,759,366 (46.3%)
+Johnson 4,470,971 (3.3%)
+Stein 1,43…
+
+(Mon Dec 05 22:02:09 +0000 2016): It's @madonna. C'mon. Thank you @billboard for making our interview happen! Take a look: https://t.co/5q2wtQoPEV… https://t.co/TjpJa9uY8H
+
+(Tue Dec 06 15:27:46 +0000 2016): RT @MomsDemand: The Ohio Moms pouring into the statehouse this morning to oppose #HB48 are our #TuesdayMotivation. Go Moms! #OHleg #GunSens…
+
+(Tue Dec 06 08:40:24 +0000 2016): Never saw this growing up in MA. #tistheseason https://t.co/c4lpxVitGf
+
+(Tue Dec 06 21:11:33 +0000 2016): Lately, every time I tweet about something frivolous, I feel smaller as a person, American, mother, citizen.
+
+(Tue Dec 13 18:30:14 +0000 2016): On the J.O.B. Not a bad backdrop. Save Planned Parenthood. (I feel the need to write or say this… https://t.co/PciLj1TDml
+
+(Mon Dec 05 08:03:53 +0000 2016): RT @maxhandelman: My 5-year old upon hearing Cyndi Lauper's "True Colors": 
+
+Oh, Dad, this is a remix of that song from @Trolls. 
+
+Me: *sma…
+
+(Tue Dec 06 21:02:58 +0000 2016): Got to be a part of herstory this year. I'd do it all again. #FightSong #ThisHappened https://t.co/PVDHGyqpQG
+
+(Mon Dec 12 15:47:54 +0000 2016): RT @michaelianblack: We have been instructed to disbelieve the news, the gov't, the scientists, and the academics. But we're supposed to be…
+
+(Sun Dec 04 06:40:37 +0000 2016): RT @OmarjSakr: Women in Middle East attacked for not wearing hijab
+Women in the West attacked for wearing hijab
+It's almost like women aren…
+
+(Sun Dec 04 17:04:54 +0000 2016): Yoda + seagulls = @badlipreading! #starwars https://t.co/3nZveDKgsV
+
+Command: spotify-this-song  Song: the sign, Artist: ace of base
 ---------------------------------------------
-Title: Gladiator
-Year: 2000
-imdb Rating: 8.5
-Country: USA, UK
-Plot: When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.
-Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
-Tomatoes Rating: 7.2
-Rating URL: http://www.rottentomatoes.com/m/gladiator/
+Artist: Charttraxx Karaoke
+Song Name: The Sign - Karaoke Version In the Style of Ace Of Base
+Album: Artist Karaoke, Vol. 102
+Track Number: 10
+Spotify URL: https://open.spotify.com/track/7Beaeo6HL5IKuGyIAZBkQS
 
-spotify-this-song,"'the"
+Command: spotify-this-song  Song: the sign, Artist: ace of base
 ---------------------------------------------
-2: Dance the Funk (0)
-
-4: The Spiral Dance (0)
-
-0: Dance the Stars (feat. Magical Future Artist) (0)
-
-1: The Spiral Dance (0)
-
-5: Dance By the Light (0)
-
-6: Fairytale - The Last Dance (0)
-
-7: Dance To The Rhythm (0)
-
-8: For the Young Artist, Volume 1: Greek Dance (0)
-
-9: Spirit of the Dance (2)
-
-3: The Skeleton Dance (0)
-
-10: Dance to the Rhythm (0)
-
-11: The Old Dance: III. Sarabande (0)
-
-12: The Old Dance: II. Gigue (0)
-
-13: The Old Dance: I. Badinerie (0)
-
-14: The Old Dance: III. Sarabande (0)
-
-15: The Old Dance: III. Sarabande (0)
-
-16: The Old Dance: II. Gigue (0)
-
-17: The Old Dance: III. Sarabande (0)
-
-18: The Old Dance: I. Badinerie (0)
-
-19: The Old Dance: III. Sarabande (0)
-
-spotify-this-song,"the dance"
----------------------------------------------
-0: The Dance - Composed Or Made Famous By Garth Brooks (0)
-
-spotify-this-song,"undefined"
----------------------------------------------
-0: The Sign - Karaoke Version In the Style of Ace Of Base (0)
-
-1: Sign - Karaoke Version In the Style of Ace Of Base (0)
+Artist: Charttraxx Karaoke
+Song Name: The Sign - Karaoke Version In the Style of Ace Of Base
+Album: Artist Karaoke, Vol. 102
+Track Number: 10
+Spotify URL: https://open.spotify.com/track/7Beaeo6HL5IKuGyIAZBkQS
